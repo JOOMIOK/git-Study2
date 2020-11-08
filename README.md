@@ -17,3 +17,9 @@
 - sass mixin(믹스인)
 - sass 확장(extend)
 - sass 모듈 (파일의 유형별로 분류)
+
+
+# 설치할 사항 주미옥작성
+- 자격증명 돋보기로 검색 후 깃허브제거(내가설치하지 않았을시 다른사람의 깃허브임 )
+- mkdir git_study 폴더만들기
+- cd git-studty
